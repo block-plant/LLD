@@ -122,3 +122,6 @@ int main() {
 
     return 0 ; 
 }
+
+
+// The Strategy Pattern handles how an object behaves at runtime.
